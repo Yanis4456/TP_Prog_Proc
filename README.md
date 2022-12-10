@@ -1,5 +1,5 @@
 # TP_Prog_Proc
-TP du binôme Yanis Aissaoui et Nicolas Ussont à rendre pour le 10 décembre
+TP du binôme Yanis Aissaoui et Nicolas Usson à rendre pour le 10 décembre
 
 
 Introduction:  
